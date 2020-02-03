@@ -1,2 +1,2 @@
-# face-recognition-api
-face-recognition-api
+# Face-Recognition-API
+Face-Recognition-API
